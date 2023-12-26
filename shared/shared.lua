@@ -11,7 +11,7 @@ Config.Locations = {
 Config.Jobs = {
 	['Pillbox Hill'] = {
 		{
-			label = 'Pizza Bezorger', -- Job label (Required)
+			label = 'Pizza Bezorger', -- Job label (NODIG)
 			description = 'Begin als pizza bezorger op de fiets.', -- Job Description (NODIG)
 			name = 'fueler', -- Job name (NODIG)
 			grade = 0, -- Job grade (NODIG)
